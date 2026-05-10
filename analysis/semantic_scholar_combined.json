@@ -1,0 +1,1194 @@
+[
+  {
+    "cluster": "Cluster 1: Teacher Quality",
+    "key": "chetty2014",
+    "doi": "10.1257/aer.104.9.2593",
+    "found": true,
+    "paper_id": "302bcbdbc8a7b55d9015a88c311d5eb6716aa817",
+    "title": "Measuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+    "citation_count": 1271,
+    "similar": [],
+    "top_citing": [
+      {
+        "title": "What can be learned from growth mindset controversies?",
+        "year": 2020,
+        "citations": 574,
+        "doi": "10.1037/amp0000794",
+        "authors": [
+          "D. Yeager",
+          "C. Dweck"
+        ]
+      },
+      {
+        "title": "Identifying the characteristics of effective teacher professional development: a critical review",
+        "year": 2020,
+        "citations": 277,
+        "doi": "10.1080/09243453.2020.1772841",
+        "authors": [
+          "Sam Sims",
+          "Harry Fletcher-Wood"
+        ]
+      },
+      {
+        "title": "Compensating for academic loss: Online learning and student performance during the COVID-19 pandemic",
+        "year": 2020,
+        "citations": 231,
+        "doi": "10.1016/j.chieco.2021.101629",
+        "authors": [
+          "A. Clark",
+          "Huifu Nong",
+          "Hongjia Zhu"
+        ]
+      },
+      {
+        "title": "Flexible Wages, Bargaining, and the Gender Gap",
+        "year": 2020,
+        "citations": 230,
+        "doi": "10.3386/W27894",
+        "authors": [
+          "Barbara Biasi",
+          "Heather Sarsons"
+        ]
+      },
+      {
+        "title": "Upcoding: Evidence from Medicare on Squishy Risk Adjustment",
+        "year": 2020,
+        "citations": 215,
+        "doi": "10.1086/704756",
+        "authors": [
+          "M. Geruso",
+          "T. Layton"
+        ]
+      },
+      {
+        "title": "Teacher Mindsets Help Explain Where a Growth-Mindset Intervention Does and Doesn\u2019t Work",
+        "year": 2021,
+        "citations": 207,
+        "doi": "10.1177/09567976211028984",
+        "authors": [
+          "David S. Yeager",
+          "Jamie M. Carroll",
+          "Jenny Buontempo"
+        ]
+      },
+      {
+        "title": "People Management Skills, Employee Attrition, and Manager Rewards: An Empirical Analysis",
+        "year": 2020,
+        "citations": 133,
+        "doi": "10.1086/711409",
+        "authors": [
+          "M. Hoffman",
+          "S. Tadelis"
+        ]
+      },
+      {
+        "title": "Does Race Matter for Police Use of Force? Evidence from 911 Calls",
+        "year": 2020,
+        "citations": 130,
+        "doi": "10.3386/w26774",
+        "authors": [
+          "Mark Hoekstra",
+          "CarlyWill Sloan"
+        ]
+      },
+      {
+        "title": "Using machine learning to translate applicant work history into predictors of performance and turnover.",
+        "year": 2019,
+        "citations": 129,
+        "doi": "10.1037/apl0000405",
+        "authors": [
+          "S. Sajjadiani",
+          "Aaron J. Sojourner",
+          "J. Kammeyer-Mueller"
+        ]
+      },
+      {
+        "title": "The Long-Term Effects of Universal Preschool in Boston",
+        "year": 2021,
+        "citations": 125,
+        "doi": "10.3386/W28756",
+        "authors": [
+          "Guthrie Gray-Lobe",
+          "Parag A. Pathak",
+          "Christopher R. Walters"
+        ]
+      },
+      {
+        "title": "The need for a fundamental shift in the Saudi education system: Implementing the Saudi Arabian economic vision 2030",
+        "year": 2020,
+        "citations": 107,
+        "doi": "10.1177/0034523719851534",
+        "authors": [
+          "Alhasan Allmnakrah",
+          "C. Evers"
+        ]
+      },
+      {
+        "title": "The Cross-Section of Bank Value",
+        "year": 2021,
+        "citations": 101,
+        "doi": "10.3386/W23291",
+        "authors": [
+          "Mark L. Egan",
+          "Stefan Lewellen",
+          "Adi Sunderam"
+        ]
+      },
+      {
+        "title": "Weak Markets, Strong Teachers: Recession at Career Start and Teacher Effectiveness",
+        "year": 2020,
+        "citations": 89,
+        "doi": "10.1086/705883",
+        "authors": [
+          "Markus Nagler",
+          "Marc Piopiunik",
+          "Martin R. West"
+        ]
+      },
+      {
+        "title": "School Effects on Socioemotional Development, School-Based Arrests, and Educational Attainment",
+        "year": 2020,
+        "citations": 83,
+        "doi": "10.3386/w26759",
+        "authors": [
+          "C. Jackson",
+          "Shanette C. Porter",
+          "J. Easton"
+        ]
+      },
+      {
+        "title": "The Distribution of School Spending Impacts",
+        "year": 2021,
+        "citations": 82,
+        "doi": "10.3386/W28517",
+        "authors": [
+          "Kirabo Jackson",
+          "Claire L. Mackevicius"
+        ]
+      },
+      {
+        "title": "Beyond state capacity: bureaucratic performance, policy implementation and reform",
+        "year": 2020,
+        "citations": 81,
+        "doi": "10.1017/S1744137420000478",
+        "authors": [
+          "Martin J. Williams"
+        ]
+      },
+      {
+        "title": "Erratum to: The urban\u2013rural education gap: do cities indeed make us smarter?",
+        "year": 2020,
+        "citations": 77,
+        "doi": "10.1093/jeg/lbaa033",
+        "authors": [
+          "R. V. Maarseveen"
+        ]
+      },
+      {
+        "title": "Mortality Effects and Choice Across Private Health Insurance Plans.",
+        "year": 2020,
+        "citations": 76,
+        "doi": "10.3386/w27578",
+        "authors": [
+          "Jason Abaluck",
+          "Mauricio Caceres Bravo",
+          "Peter Hull"
+        ]
+      },
+      {
+        "title": "Using Experiments to Correct for Selection in Observational Studies",
+        "year": 2020,
+        "citations": 76,
+        "doi": "",
+        "authors": [
+          "S. Athey",
+          "Raj Chetty",
+          "G. Imbens"
+        ]
+      },
+      {
+        "title": "Recruitment, effort, and retention effects of performance contracts for civil servants: Experimental evidence from Rwandan primary schools",
+        "year": 2020,
+        "citations": 74,
+        "doi": "10.1257/rct.2565-4.0",
+        "authors": [
+          "C. Leaver",
+          "Owen Ozier",
+          "Pieter Serneels"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "Cluster 2: Early Childhood Ed",
+    "key": "heckman2011",
+    "doi": "10.1257/aer.101.5.1980",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 3: Class Size",
+    "key": "krueger1999",
+    "doi": "10.1257/aer.89.4.749",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 4: School Choice/Vouchers",
+    "key": "abdulkadiroglu2011",
+    "doi": "10.1257/aer.102.5.2017",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 5: Charter Schools",
+    "key": "angrist2013",
+    "doi": "10.1257/aer.101.5.2026",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 6: Curriculum & Instruction",
+    "key": "slavin2016",
+    "doi": "10.3102/0034654316669821",
+    "found": true,
+    "paper_id": "734c731cda606910a1ea896b97faa84570b83081",
+    "title": "A Research Synthesis of the Associations Between Socioeconomic Background, Inequality, School Climate, and Academic Achievement",
+    "citation_count": 535,
+    "similar": [],
+    "top_citing": [
+      {
+        "title": "Drivers of human development: How relationships and context shape learning and development1",
+        "year": 2020,
+        "citations": 419,
+        "doi": "10.1080/10888691.2017.1398650",
+        "authors": [
+          "D. Osher",
+          "P. Cantor",
+          "Juliette Berg"
+        ]
+      },
+      {
+        "title": "Classroom climate and children\u2019s academic and psychological wellbeing: A systematic review and meta-analysis",
+        "year": 2020,
+        "citations": 392,
+        "doi": "10.1016/j.dr.2020.100912",
+        "authors": [
+          "Ming-Te Wang",
+          "Jessica L Degol",
+          "Jamie Amemiya"
+        ]
+      },
+      {
+        "title": "Malleability, plasticity, and individuality: How children learn and develop in context1",
+        "year": 2019,
+        "citations": 270,
+        "doi": "10.1080/10888691.2017.1398649",
+        "authors": [
+          "P. Cantor",
+          "D. Osher",
+          "Juliette Berg"
+        ]
+      },
+      {
+        "title": "Educating the Whole Child: Improving School Climate to Support Student Success",
+        "year": 2018,
+        "citations": 241,
+        "doi": "10.54300/145.655",
+        "authors": [
+          "Linda Darling-Hammond",
+          "Channa M. Cook-Harvey"
+        ]
+      },
+      {
+        "title": "Effects of Socioeconomic Status, Parent\u2013Child Relationship, and Learning Motivation on Reading Ability",
+        "year": 2018,
+        "citations": 173,
+        "doi": "10.3389/fpsyg.2018.01297",
+        "authors": [
+          "Qishan Chen",
+          "Yurou Kong",
+          "Wenyang Gao"
+        ]
+      },
+      {
+        "title": "The relation between students' socioeconomic status and ICT literacy: Findings from a meta-analysis",
+        "year": 2019,
+        "citations": 153,
+        "doi": "10.1016/J.COMPEDU.2019.04.011",
+        "authors": [
+          "Ronny Scherer",
+          "Fazilat Siddiq"
+        ]
+      },
+      {
+        "title": "Influence of Emotional Intelligence, Motivation and Resilience on Academic Performance and the Adoption of Healthy Lifestyle Habits among Adolescents",
+        "year": 2019,
+        "citations": 142,
+        "doi": "10.3390/ijerph16162810",
+        "authors": [
+          "R. Trigueros",
+          "J. M. Aguilar-Parra",
+          "A. Cangas"
+        ]
+      },
+      {
+        "title": "Social and Emotional Learning: A Principled Science of Human Development in Context",
+        "year": 2019,
+        "citations": 142,
+        "doi": "10.1080/00461520.2019.1625776",
+        "authors": [
+          "Stephanie M. Jones",
+          "Michael W. McGarrah",
+          "J. Kahn"
+        ]
+      },
+      {
+        "title": "School Climate, Student Engagement, and Academic Achievement: A Latent Variable, Multilevel Multi-Informant Examination",
+        "year": 2018,
+        "citations": 137,
+        "doi": "10.1177/2332858418815661",
+        "authors": [
+          "Timothy R. Konold",
+          "D. Cornell",
+          "Yuane Jia"
+        ]
+      },
+      {
+        "title": "School climate multidimensionality and measurement: a systematic literature review",
+        "year": 2020,
+        "citations": 126,
+        "doi": "10.1080/02671522.2019.1697735",
+        "authors": [
+          "Valentina Grazia",
+          "Luisa Molinari"
+        ]
+      },
+      {
+        "title": "The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime",
+        "year": 2019,
+        "citations": 125,
+        "doi": "10.3386/w26257",
+        "authors": [
+          "Andrew Bacher-Hicks",
+          "Stephen B. Billings",
+          "D. Deming"
+        ]
+      },
+      {
+        "title": "Relationships between school climate, bullying and delinquent behaviours",
+        "year": 2018,
+        "citations": 110,
+        "doi": "10.1007/S10984-017-9249-6",
+        "authors": [
+          "Jill M. Aldridge",
+          "Katrina McChesney",
+          "E. Afari"
+        ]
+      },
+      {
+        "title": "The impact of an online stress intervention on burnout and teacher efficacy",
+        "year": 2021,
+        "citations": 104,
+        "doi": "10.1016/j.tate.2020.103251",
+        "authors": [
+          "Brandis M. Ansley",
+          "David E. Houchins",
+          "K. Varjas"
+        ]
+      },
+      {
+        "title": "School Climate and Academic Achievement in Middle and High School Students.",
+        "year": 2019,
+        "citations": 104,
+        "doi": "10.1111/josh.12726",
+        "authors": [
+          "S. Daily",
+          "M. J. Mann",
+          "A. Kristjansson"
+        ]
+      },
+      {
+        "title": "A Systematic Review of the Effects of Schoolwide Intervention Programs on Student and Teacher Perceptions of School Climate",
+        "year": 2020,
+        "citations": 90,
+        "doi": "10.1177/1098300720940168",
+        "authors": [
+          "Cade T. Charlton",
+          "Sara E. Moulton",
+          "Christian V. Sabey"
+        ]
+      },
+      {
+        "title": "Student\u2019s Perceptions of School Safety",
+        "year": 2018,
+        "citations": 86,
+        "doi": "10.1177/1059840518761792",
+        "authors": [
+          "Susan G Williams",
+          "Mallory Schneider",
+          "Cory Wornell"
+        ]
+      },
+      {
+        "title": "Enhancing Teacher Self-Efficacy in Multicultural Classrooms and School Climate: The Role of Professional Development in Multicultural Education in the United States and South Korea",
+        "year": 2020,
+        "citations": 77,
+        "doi": "10.1177/2332858420973574",
+        "authors": [
+          "Soobin Choi",
+          "Se Woong Lee"
+        ]
+      },
+      {
+        "title": "Addressing School Safety Through Comprehensive School Climate Approaches",
+        "year": 2021,
+        "citations": 71,
+        "doi": "10.1080/2372966X.2021.1926321",
+        "authors": [
+          "Catherine P. Bradshaw",
+          "Jonathan D. Cohen",
+          "D. Espelage"
+        ]
+      },
+      {
+        "title": "Parental Involvement and Perceptions of School Climate in California",
+        "year": 2017,
+        "citations": 70,
+        "doi": "10.1177/0042085916685764",
+        "authors": [
+          "R. Berkowitz",
+          "R. Astor",
+          "Diana Pineda"
+        ]
+      },
+      {
+        "title": "Can a Positive School Climate Promote Student Attendance? Evidence From New York City",
+        "year": 2020,
+        "citations": 66,
+        "doi": "10.3102/0002831220924037",
+        "authors": [
+          "Daniel Hamlin"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "Cluster 7: SEL",
+    "key": "durlak2011",
+    "doi": "10.1111/j.1467-8624.2011.01589.x",
+    "found": true,
+    "paper_id": "a71b94ceab1177051d76855b380fb306d055a188",
+    "title": "Does God make it real? Children's belief in religious stories from the Judeo-Christian tradition.",
+    "citation_count": 40,
+    "similar": [],
+    "top_citing": [
+      {
+        "title": "Moralizing religions: Prosocial or a privilege of wealth?",
+        "year": 2014,
+        "citations": 531,
+        "doi": "10.1017/S0140525X15000400",
+        "authors": [
+          "Scott Atran"
+        ]
+      },
+      {
+        "title": "Revisiting the fantasy-reality distinction: children as na\u00efve skeptics.",
+        "year": 2013,
+        "citations": 147,
+        "doi": "10.1111/cdev.12081",
+        "authors": [
+          "J. Woolley",
+          "Maliki E Ghossainy"
+        ]
+      },
+      {
+        "title": "Judgments About Fact and Fiction by Children From Religious and Nonreligious Backgrounds",
+        "year": 2015,
+        "citations": 78,
+        "doi": "10.1111/cogs.12138",
+        "authors": [
+          "Kathleen H. Corriveau",
+          "E. Chen",
+          "P. Harris"
+        ]
+      },
+      {
+        "title": "The youngest readers\u2019 dilemma: A review of children\u2019s learning from fictional sources",
+        "year": 2017,
+        "citations": 70,
+        "doi": "10.1016/J.DR.2016.11.001",
+        "authors": [
+          "Emily J. Hopkins",
+          "D. Weisberg"
+        ]
+      },
+      {
+        "title": "Confronting, Representing, and Believing Counterintuitive Concepts: Navigating the Natural and the Supernatural",
+        "year": 2014,
+        "citations": 66,
+        "doi": "10.1177/1745691613518078",
+        "authors": [
+          "Jonathan D. Lane",
+          "P. Harris"
+        ]
+      },
+      {
+        "title": "Abraham Lincoln and Harry Potter: children's differentiation between historical and fantasy characters.",
+        "year": 2009,
+        "citations": 63,
+        "doi": "10.1016/j.cognition.2009.08.007",
+        "authors": [
+          "Kathleen H. Corriveau",
+          "Angie L Kim",
+          "Courtney E. Schwalen"
+        ]
+      },
+      {
+        "title": "Developmental Changes in the Use of Supernatural Explanations for Unusual Events",
+        "year": 2011,
+        "citations": 43,
+        "doi": "10.1163/156853711X591279",
+        "authors": [
+          "J. Woolley",
+          "C. A. Cornelius",
+          "Walter Lacy"
+        ]
+      },
+      {
+        "title": "Religious testimony in a secular society: Belief in unobservable entities among Chinese parents and their children.",
+        "year": 2019,
+        "citations": 36,
+        "doi": "10.1037/dev0000846",
+        "authors": [
+          "Y. Cui",
+          "J. Clegg",
+          "Eleanor F. Yan"
+        ]
+      },
+      {
+        "title": "Development of the Use of Conversational Cues to Assess Reality Status",
+        "year": 2011,
+        "citations": 31,
+        "doi": "10.1080/15248372.2011.554929",
+        "authors": [
+          "J. Woolley",
+          "Lili Ma",
+          "Gabriel Lopez-Mobilia"
+        ]
+      },
+      {
+        "title": "Canadian children\u2019s perceptions of spirituality: diverse voices",
+        "year": 2012,
+        "citations": 28,
+        "doi": "10.1080/1364436X.2012.742040",
+        "authors": [
+          "Kelsey E. Moore",
+          "V. Talwar",
+          "S. Bosacki"
+        ]
+      },
+      {
+        "title": "Children and the Law",
+        "year": 2015,
+        "citations": 23,
+        "doi": "10.1002/9781118963418.CHILDPSY312",
+        "authors": [
+          "M. Lamb",
+          "Lindsay C. Malloy",
+          "I. Hershkowitz"
+        ]
+      },
+      {
+        "title": "Epistemic justifications for belief in the unobservable: The impact of minority status.",
+        "year": 2020,
+        "citations": 22,
+        "doi": "10.1016/j.cognition.2020.104273",
+        "authors": [
+          "Telli Davoodi",
+          "Y. Cui",
+          "J. Clegg"
+        ]
+      },
+      {
+        "title": "Relations between fantasy and transfer of learning from storybooks.",
+        "year": 2022,
+        "citations": 17,
+        "doi": "10.1016/j.jecp.2022.105474",
+        "authors": [
+          "R. Richert",
+          "M. Schlesinger"
+        ]
+      },
+      {
+        "title": "Practicing Safe Sects",
+        "year": 2018,
+        "citations": 16,
+        "doi": "10.1163/9789004360952",
+        "authors": [
+          "F. Shults"
+        ]
+      },
+      {
+        "title": "Children's Ideas About What Can Really Happen: The Impact of Age and Religious Background",
+        "year": 2021,
+        "citations": 15,
+        "doi": "10.1111/cogs.13054",
+        "authors": [
+          "Ayse Payir",
+          "N. Mcloughlin",
+          "Y. Cui"
+        ]
+      },
+      {
+        "title": "On the Catholic Identity of Students and Schools: Value Propositions for Catholic Education",
+        "year": 2022,
+        "citations": 13,
+        "doi": "10.15365/joce.2501072022",
+        "authors": [
+          "D. Lapsley",
+          "K. Kelley"
+        ]
+      },
+      {
+        "title": "Using findings from the cognitive science of religion to understand current conflicts between religious and scientific ideologies",
+        "year": 2017,
+        "citations": 13,
+        "doi": "10.1080/2153599X.2017.1326399",
+        "authors": [
+          "J. McPhetres",
+          "T. Nguyen"
+        ]
+      },
+      {
+        "title": "Development of Afterlife Beliefs in Childhood: Relationship to Parent Beliefs and Testimony",
+        "year": 2015,
+        "citations": 13,
+        "doi": "10.13110/MERRPALMQUAR1982.61.2.0290",
+        "authors": [
+          "Plousia Misailidi",
+          "Ekaterina N. Kornilaki"
+        ]
+      },
+      {
+        "title": "Diversity in children's understanding of death.",
+        "year": 2014,
+        "citations": 12,
+        "doi": "10.1111/mono.12087",
+        "authors": [
+          "M. Callanan"
+        ]
+      },
+      {
+        "title": "Belief in Magic Predicts Children's Selective Trust in Informants",
+        "year": 2014,
+        "citations": 11,
+        "doi": "10.1080/15248372.2012.751917",
+        "authors": [
+          "Sunae Kim",
+          "P. Harris"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "Cluster 8: Technology",
+    "key": "escueta2017",
+    "doi": "10.3102/0034654316672285",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 9: Out-of-School",
+    "key": "chetty2016",
+    "doi": "10.1257/aer.20150572",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 10: International",
+    "key": "wossmann2006",
+    "doi": "10.1016/j.econedurev.2006.07.001",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cluster 11: Citation Distortion",
+    "key": "greenberg2009",
+    "doi": "10.1136/bmj.b2680",
+    "found": true,
+    "paper_id": "d860c6d3e941e1cb28fd9f899035fb926fba7747",
+    "title": "How citation distortions create unfounded authority: analysis of a citation network",
+    "citation_count": 455,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cross-cutting: Teacher Certification",
+    "key": "hanushek2010",
+    "doi": "10.1257/jep.24.3.133",
+    "found": true,
+    "paper_id": "b4aedc01f0fcf8fa1d22e163276876de6c2b433c",
+    "title": "The Quality and Distribution of Teachers under the No Child Left Behind Act",
+    "citation_count": 85,
+    "similar": [],
+    "top_citing": [
+      {
+        "title": "Generalizations about Using Value-Added Measures of Teacher Quality",
+        "year": 2010,
+        "citations": 851,
+        "doi": "10.1257/AER.100.2.267",
+        "authors": [
+          "E. Hanushek",
+          "Steven G. Rivkin"
+        ]
+      },
+      {
+        "title": "Five research-based heuristics for using video in pre-service teacher education",
+        "year": 2013,
+        "citations": 248,
+        "doi": "",
+        "authors": [
+          "Geraldine Blomberg",
+          "A. Renkl",
+          "M. Sherin"
+        ]
+      },
+      {
+        "title": "Teacher-child relationships and academic achievement: a multilevel propensity score model approach.",
+        "year": 2013,
+        "citations": 173,
+        "doi": "10.1016/j.jsp.2013.05.001",
+        "authors": [
+          "Meghan McCormick",
+          "Erin E O'Connor",
+          "Elise Cappella"
+        ]
+      },
+      {
+        "title": "Social Justice Leadership and Inclusion",
+        "year": 2014,
+        "citations": 129,
+        "doi": "10.1177/0013161X13514440",
+        "authors": [
+          "David E. DeMatthews",
+          "H. Mawhinney"
+        ]
+      },
+      {
+        "title": "Longitudinal effects of induction on teaching skills and attrition rates of beginning teachers",
+        "year": 2016,
+        "citations": 108,
+        "doi": "10.1080/09243453.2015.1035731",
+        "authors": [
+          "M. Helms-Lorenz",
+          "W. van de Grift",
+          "Ridwan Maulana"
+        ]
+      },
+      {
+        "title": "Unequal Opportunities",
+        "year": 2015,
+        "citations": 61,
+        "doi": "10.1177/0014402914551737",
+        "authors": [
+          "Loretta Mason-Williams"
+        ]
+      },
+      {
+        "title": "Black Teachers\u2019 Retention and Transfer Patterns in North Carolina: How Do Patterns Vary by Teacher Effectiveness, Subject, and School Conditions?",
+        "year": 2018,
+        "citations": 49,
+        "doi": "10.1177/2332858418784914",
+        "authors": [
+          "Min Sun"
+        ]
+      },
+      {
+        "title": "Human Capital and the Quality of Education in a Poverty Trap Model",
+        "year": 2011,
+        "citations": 47,
+        "doi": "10.1080/13600818.2010.551003",
+        "authors": [
+          "Mar\u00eda Emma Santos"
+        ]
+      },
+      {
+        "title": "Teacher Beliefs: Why They Matter and What They Are",
+        "year": 2021,
+        "citations": 40,
+        "doi": "10.1093/WBRO/LKAB008",
+        "authors": [
+          "Shwetlena Sabarwal",
+          "Malek Abu-Jawdeh",
+          "Radhika Kapoor"
+        ]
+      },
+      {
+        "title": "Urban teacher longevity: What keeps teachers of color in one under-resourced urban school?",
+        "year": 2016,
+        "citations": 40,
+        "doi": "10.1016/J.TATE.2016.05.014",
+        "authors": [
+          "Kari Kokka"
+        ]
+      },
+      {
+        "title": "Property Left Behind: An Unintended Consequence of a No Child Left Behind 'Failing' School Designation",
+        "year": 2014,
+        "citations": 34,
+        "doi": "10.1111/JORS.12141",
+        "authors": [
+          "A. Bogin",
+          "Phuong Nguyen\u2010Hoang"
+        ]
+      },
+      {
+        "title": "Uneven Distribution of Novice Teachers in the Chilean Primary School System",
+        "year": 2012,
+        "citations": 33,
+        "doi": "10.14507/EPAA.V20N30.2012",
+        "authors": [
+          "Lorena Meckes",
+          "Mart\u00edn Bascop\u00e9"
+        ]
+      },
+      {
+        "title": "Which plan to choose? The determinants of pension system choice for public school teachers",
+        "year": 2014,
+        "citations": 30,
+        "doi": "10.1017/S1474747214000353",
+        "authors": [
+          "Dan Goldhaber",
+          "Cyrus Grout"
+        ]
+      },
+      {
+        "title": "Thriving, not just surviving: The impact of teacher mentors on pre-service teachers in disadvantaged school contexts",
+        "year": 2020,
+        "citations": 25,
+        "doi": "10.1016/j.tate.2020.103185",
+        "authors": [
+          "L. Naidoo",
+          "Sharon Wagner"
+        ]
+      },
+      {
+        "title": "Federal policy and the teacher labor market: exploring the effects of NCLB school accountability on teacher turnover",
+        "year": 2017,
+        "citations": 24,
+        "doi": "10.1080/09243453.2016.1242506",
+        "authors": [
+          "Min Sun",
+          "Andrew Saultz",
+          "Yincheng Ye"
+        ]
+      },
+      {
+        "title": "The distributional impacts of a universal school reform on mathematical achievements: a natural experiment from Canada.",
+        "year": 2014,
+        "citations": 23,
+        "doi": "10.1016/J.ECONEDUREV.2014.03.004",
+        "authors": [
+          "C. Haeck",
+          "P. Lef\u00e8bvre",
+          "P. Merrigan"
+        ]
+      },
+      {
+        "title": "Examining the relationship of teacher perception of accountability and assessment policies on teacher turnover during NCLB",
+        "year": 2019,
+        "citations": 21,
+        "doi": "10.14507/EPAA.27.3858",
+        "authors": [
+          "Meredith L. Wronowski",
+          "Angela Urick"
+        ]
+      },
+      {
+        "title": "Teacher judgements and gender achievement gaps in primary education in England, Germany, and the US.",
+        "year": 2023,
+        "citations": 17,
+        "doi": "10.1016/j.ssresearch.2023.102938",
+        "authors": [
+          "Melanie Olczyk",
+          "Sarah Gentrup",
+          "Thorsten Schneider"
+        ]
+      },
+      {
+        "title": "The Every Student Succeeds Act, State Efforts to Improve Access to Effective Educators, and the Importance of School Leadership",
+        "year": 2017,
+        "citations": 17,
+        "doi": "10.1177/0013161X17711481",
+        "authors": [
+          "E. Fuller",
+          "Liz Hollingworth",
+          "Andrew Pendola"
+        ]
+      },
+      {
+        "title": "Inequitable teacher turnover and performance-based appraisal: a global trend?",
+        "year": 2023,
+        "citations": 16,
+        "doi": "10.1080/02680939.2023.2189753",
+        "authors": [
+          "Leah Natasha Glassow"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "Cross-cutting: School Finance",
+    "key": "jackson2016",
+    "doi": "10.1093/qje/qjw002",
+    "found": false,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cross-cutting: Accountability",
+    "key": "deming2013",
+    "doi": "10.1257/aer.101.5.2157",
+    "found": true,
+    "paper_id": "9ea467faa8b39909c5e795e1c4aa5baedcc130b2",
+    "title": "Panic on the Streets of London: Police, Crime and the July 2005 Terror Attacks",
+    "citation_count": 367,
+    "similar": [],
+    "top_citing": []
+  },
+  {
+    "cluster": "Cross-cutting: Grit/Non-cognitive",
+    "key": "duckworth2007",
+    "doi": "10.1037/a0021890",
+    "found": true,
+    "paper_id": "dd77e05d022d1ee487209f94c479a2bc539f4cbc",
+    "title": "To read or not to read: a meta-analysis of print exposure from infancy to early adulthood.",
+    "citation_count": 1275,
+    "similar": [],
+    "top_citing": [
+      {
+        "title": "Parental support strategies and motivation in aiding their children learn the English language",
+        "year": 2023,
+        "citations": 110,
+        "doi": "10.59400/fls.v5i2.1541",
+        "authors": [
+          "Jason V. Chavez",
+          "Haydee G. Adalia",
+          "Joebert P. Alberto"
+        ]
+      },
+      {
+        "title": "Home Literacy Activities and Children\u2019s Reading Skills, Independent Reading, and Interest in Literacy Activities From Kindergarten to Grade 2",
+        "year": 2020,
+        "citations": 99,
+        "doi": "10.3389/fpsyg.2020.01508",
+        "authors": [
+          "G. \u0160ilinskas",
+          "M. S\u00e9n\u00e9chal",
+          "M. Torppa"
+        ]
+      },
+      {
+        "title": "Number of books at home as an indicator of socioeconomic status: Examining its extensions and their incremental validity for academic achievement",
+        "year": 2022,
+        "citations": 88,
+        "doi": "10.1007/s11218-022-09704-8",
+        "authors": [
+          "Birgit Heppt",
+          "Melanie Olczyk",
+          "A. Volodina"
+        ]
+      },
+      {
+        "title": "Long-term effects of the home literacy environment on reading development: Familial risk for dyslexia as a moderator.",
+        "year": 2021,
+        "citations": 68,
+        "doi": "10.1016/j.jecp.2021.105314",
+        "authors": [
+          "M. Torppa",
+          "K. Vasalampi",
+          "K. Eklund"
+        ]
+      },
+      {
+        "title": "Contribution of Vocabulary Knowledge to Reading Comprehension Among Chinese Students: A Meta-Analysis",
+        "year": 2020,
+        "citations": 66,
+        "doi": "10.3389/fpsyg.2020.525369",
+        "authors": [
+          "Yang Dong",
+          "Yi Tang",
+          "B. Chow"
+        ]
+      },
+      {
+        "title": "How can Booktok on TikTok inform readers' advisory services for young people?",
+        "year": 2021,
+        "citations": 65,
+        "doi": "10.1016/J.LISR.2021.101091",
+        "authors": [
+          "M. Merga"
+        ]
+      },
+      {
+        "title": "Displacement of peer play by screen time: associations with toddler development",
+        "year": 2022,
+        "citations": 62,
+        "doi": "10.1038/s41390-022-02261-y",
+        "authors": [
+          "D. Putnick",
+          "M. Trinh",
+          "R. Sundaram"
+        ]
+      },
+      {
+        "title": "Book Language and Its Implications for Children\u2019s Language, Literacy, and Development",
+        "year": 2022,
+        "citations": 61,
+        "doi": "10.1177/09637214221103264",
+        "authors": [
+          "K. Nation",
+          "Nicola Dawson",
+          "Yaling Hsiao"
+        ]
+      },
+      {
+        "title": "The Relationship Between Reading Strategy and Reading Comprehension: A Meta-Analysis",
+        "year": 2021,
+        "citations": 51,
+        "doi": "10.3389/fpsyg.2021.635289",
+        "authors": [
+          "Yuanke Sun",
+          "Jindao Wang",
+          "Yang Dong"
+        ]
+      },
+      {
+        "title": "Reading and Oral Vocabulary Development in Early Adolescence",
+        "year": 2020,
+        "citations": 51,
+        "doi": "10.1080/10888438.2019.1689244",
+        "authors": [
+          "J. Ricketts",
+          "Arne Lerv\u00e5g",
+          "Nicola Dawson"
+        ]
+      },
+      {
+        "title": "Home literacy environment and existing knowledge mediate the link between socioeconomic status and language learning skills in dual language learners",
+        "year": 2021,
+        "citations": 50,
+        "doi": "10.1016/j.ecresq.2020.10.007",
+        "authors": [
+          "Rufan Luo",
+          "Amy E. Pace",
+          "Dani Levine"
+        ]
+      },
+      {
+        "title": "Unveiling the Mysteries of Dyslexia\u2014Lessons Learned from the Prospective Jyv\u00e4skyl\u00e4 Longitudinal Study of Dyslexia",
+        "year": 2021,
+        "citations": 48,
+        "doi": "10.3390/brainsci11040427",
+        "authors": [
+          "Kaisa Lohvansuu",
+          "M. Torppa",
+          "T. Ahonen"
+        ]
+      },
+      {
+        "title": "Effectiveness of Interventions that Foster Reading Motivation: a Meta-analysis",
+        "year": 2023,
+        "citations": 47,
+        "doi": "10.1007/s10648-023-09719-3",
+        "authors": [
+          "Lisa van der Sande",
+          "Roel van Steensel",
+          "S. Fikrat-Wevers"
+        ]
+      },
+      {
+        "title": "Meta-analysis examining the effects of electronic storybooks on language and literacy outcomes for children in grades Pre-K to grade 2",
+        "year": 2021,
+        "citations": 47,
+        "doi": "10.1111/jcal.12623",
+        "authors": [
+          "Marilena Savva",
+          "S. Higgins",
+          "Nadin Beckmann"
+        ]
+      },
+      {
+        "title": "Reading Volume and Reading\u00a0Achievement: A\u00a0Review\u00a0of\u00a0Recent Research",
+        "year": 2021,
+        "citations": 46,
+        "doi": "10.1002/RRQ.404",
+        "authors": [
+          "R. Allington",
+          "Anne Mcgill-Franzen"
+        ]
+      },
+      {
+        "title": "Using Network Science to Understand the Aging Lexicon: Linking Individuals' Experience, Semantic Networks, and Cognitive Performance",
+        "year": 2022,
+        "citations": 45,
+        "doi": "10.1111/tops.12586",
+        "authors": [
+          "Dirk U. Wulff",
+          "S. Deyne",
+          "S. Aeschbach"
+        ]
+      },
+      {
+        "title": "Shared Storybook Reading and Oral Language Development: A Bioecological Perspective",
+        "year": 2020,
+        "citations": 45,
+        "doi": "10.3389/fpsyg.2020.01818",
+        "authors": [
+          "Lorenz Grolig"
+        ]
+      },
+      {
+        "title": "Development of Numeracy and Literacy Skills in Early Childhood\u2014A Longitudinal Study on the Roles of Home Environment and Familial Risk for Reading and Math Difficulties",
+        "year": 2021,
+        "citations": 44,
+        "doi": "10.3389/feduc.2021.725337",
+        "authors": [
+          "Jenni Salminen",
+          "Daria Khanolainen",
+          "Tuire Koponen"
+        ]
+      },
+      {
+        "title": "Longitudinal Effects of the Home Learning Environment and Parental Difficulties on Reading and Math Development Across Grades 1\u20139",
+        "year": 2020,
+        "citations": 43,
+        "doi": "10.3389/fpsyg.2020.577981",
+        "authors": [
+          "Daria Khanolainen",
+          "M. Psyridou",
+          "G. \u0160ilinskas"
+        ]
+      },
+      {
+        "title": "Kindergarten pre-reading skills predict Grade 9 reading comprehension (PISA Reading) but fail to explain gender difference",
+        "year": 2020,
+        "citations": 41,
+        "doi": "10.1007/s11145-020-10090-w",
+        "authors": [
+          "M. Manu",
+          "M. Torppa",
+          "K. Eklund"
+        ]
+      }
+    ]
+  }
+]
